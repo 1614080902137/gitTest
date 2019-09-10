@@ -14,4 +14,4 @@
     <localRepository>
         D:\Program Files\mavenRepository
     </localRepository>
-* 把 user\li\.m\repository 删掉，再把 setting.xml 复制一份到 user\li\.m
+* 把 user/li/.m2/repository 删掉，再把 setting.xml 复制一份到 user/li/.m2 和 mavenRepository 
