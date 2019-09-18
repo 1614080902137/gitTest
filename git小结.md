@@ -20,3 +20,9 @@ git reset --hard <commitID（版本号）>
 git remote add origin <https://github.com/1614080902137/gitTest.git>
 ## 把内容推送到远程仓库
 git push -u origin master
+## 查看用户名和邮箱地址
+* git config user.name
+* git config user.email
+## 修改用户名和邮箱地址
+* git config --global user.name "username"
+* git config --global user.email "email"
