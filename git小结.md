@@ -18,6 +18,8 @@ git reset --hard <commitID（版本号）>
 
 ## 关联本地仓库到远程仓库
 git remote add origin <https://github.com/1614080902137/gitTest.git>
+## 取消关联
+git remote remove origin
 ## 把内容推送到远程仓库
 git push -u origin master
 ## 查看用户名和邮箱地址
